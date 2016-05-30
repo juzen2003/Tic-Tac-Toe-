@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic Tac Toe game by Python
+
 1. Print a board.
 2. Take a player's input.
 3. Place input on the board.
