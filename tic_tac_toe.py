@@ -1,3 +1,7 @@
+# Tic Tac Toe game V1
+# Dave Chang
+# 2016/05/29
+
 # pint out tic tac toe board
 def displayBoardLocation():
 	print '\nLocation'
